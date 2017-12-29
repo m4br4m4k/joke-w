@@ -1,0 +1,22 @@
+{
+  "name": "joke-w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/m4br4m4k/joke-w.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "“m4br4” <“ammd@stskill.com”> (“www.stskill.com”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m4br4m4k/joke-w/issues"
+  },
+  "homepage": "https://github.com/m4br4m4k/joke-w#readme"
+}
